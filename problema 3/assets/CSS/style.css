@@ -1,0 +1,46 @@
+div {
+    display: flex;
+    justify-content: center;
+}
+
+#numero1 {
+    margin-right: 30px;
+}
+
+#numero2 {
+    margin-right: 30px;
+}
+
+select {
+    padding: 10px 10px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+button {
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    padding-top: 60px;
+}
+
+/* #pagsig {
+    border: none;
+    font-size: 30px;
+    background-color: transparent;
+    cursor: pointer;
+}  */
